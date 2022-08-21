@@ -5,9 +5,9 @@
     <classes>
       <class name="tests.EpochValidatorTest">
         <methods>
-          <include name="verifyEpochConversionWithValidInput"/>
           <include name="setup"/>
           <include name="setURI"/>
+          <include name="verifyEpochConversionWithInvalidInput"/>
         </methods>
       </class> <!-- tests.EpochValidatorTest -->
     </classes>
