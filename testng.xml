@@ -4,7 +4,7 @@
 	<test thread-count="5" name="Test">
 
 		<classes>
-			<class name="tests.EpochValidator"></class>
+			<class name="tests.EpochValidatorTest"></class>
 		</classes>
 
 
